@@ -1,0 +1,3 @@
+﻿  Advanced_C_Plus_Plus_Final_Project.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Advanced_C_Plus_Plus_Final_Project.vcxproj -> C:\Users\RD\source\repos\Advanced_C_Plus_Plus_Final_Project\x64\Debug\Advanced_C_Plus_Plus_Final_Project.exe
